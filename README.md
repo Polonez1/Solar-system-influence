@@ -4,8 +4,8 @@ A project about the influence of the solar system on man and Earth
 
 Astrology suggests that planets and other celestial bodies may influence humans. We will examine how celestial bodies interact with humans and the Earth and compare them with objects approximating Earth. We will measure:
 
-Gravitational Interaction (F) in Newtons according to the Law of Universal Gravitation.
-Radiation Intensity (I) in Watts per square meter (W/m2) - Formula for radiation intensity.
+- Gravitational Interaction (F) in Newtons according to the Law of Universal Gravitation.
+- Radiation Intensity (I) in Watts per square meter (W/m2) - Formula for radiation intensity.
 
 
 # Source
