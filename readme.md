@@ -289,7 +289,7 @@ plt.show()
 
 
     
-![png](readme_files/readme_7_0.png)
+![png](README_files/README_7_0.png)
     
 
 
@@ -322,7 +322,7 @@ plt.show()
 
 
     
-![png](readme_files/readme_9_0.png)
+![png](README_files/README_9_0.png)
     
 
 
