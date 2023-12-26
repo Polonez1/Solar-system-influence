@@ -329,7 +329,9 @@ plt.show()
     
 ![png](README_files/README_9_0.png)
     
+# Conclusion
 
+The farther away massive objects are, the lesser their influence, as indicated by the inverse square law of universal gravitation. However, this is a negligible influence on humans, which is millions and billions of times smaller than the influence between the Earth and a person (782 N). For instance, the gravitational force between the Earth and a person (782 N) is much greater than any potential influence from distant massive objects. It is essential to consider various factors, as celestial bodies like the Moon can influence the Earth similar to how the Moon affects the tides. Yet, oceans, being massive objects, follow the gravitational interaction principle—larger masses result in stronger gravitational forces. Nevertheless, our focus was on observing the impact on an individual (80 kg) on Earth.
 
 # Source
 1. https://zpe.gov.pl/a/prawo-powszechnego-ciazenia/DIdzGlunk - Newton's law of universal gravitation
